@@ -1,4 +1,4 @@
-##Welcome to Alien Invasion, a game where you can control both the alien AND the astronaut!
+## Welcome to Alien Invasion, a game where you can control both the alien AND the astronaut!
 
 **Objective:**
   Collect moonstones by making the astronaut walk while avoiding aliens while making sure they have enough oxygen. 
